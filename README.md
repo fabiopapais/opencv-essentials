@@ -1,5 +1,5 @@
 <p align="left">
-  <h1><b>OpenCV Essentials<b/></h1> 
+  <h1><b>OpenCV Essentials</b></h1> 
   <p>Code and notes from <a href="https://www.youtube.com/watch?v=oXlwWbU8l2o">freeCodeCamp's OpenCV starter tutorial</a> with Python</p>
 </p>
 <p align="left">
